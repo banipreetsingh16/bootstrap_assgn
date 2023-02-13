@@ -7,8 +7,8 @@
     height: 100%;
     display: none;
 }
-
-
+ 
+  
 .popup-content {
     width: 600px;
     margin: 0 auto;
@@ -18,8 +18,8 @@
     background: #fff;
     position: relative;
   }
-
-
+ 
+ 
 .closeBtn {
     position: absolute;
     top: 5px;
@@ -71,7 +71,7 @@
 }
 .content-about-info{  
     margin-top:60px; 
-
+      
 }
 .about-info-head{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -79,7 +79,7 @@
     position: relative;
 }
 .about-info-head:after{
-
+    
     position:absolute;
     content: "";
     height: 1px;
@@ -102,7 +102,7 @@
     border-bottom-left-radius: 5%;
 }
 .second-button{
-
+    
     background-color: orangered;
     color: WHITE;
     margin-top:30px;
@@ -119,7 +119,7 @@
     font-size:40px;
 }
 .screenshot-head:after{
-
+    
     position:absolute;
     content: "";
     height: 1px;
